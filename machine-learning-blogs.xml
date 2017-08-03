@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Blogs about machine learning/ statistics/ data science</title>
+  </head>
+  <body>
+    <outline xmlUrl="http://probabilistic-numerics.org/feed.xml" title="Probabilistic-Numerics.org"/>
+    <outline xmlUrl="http://www.inference.vc/rss/" title="inFERENCe"/>
+    <outline xmlUrl="http://beamandrew.github.io//feed.xml" title="Andrew L. Beam"/>
+    <outline xmlUrl="https://simplystatistics.org/index.xml" title="simplystatistics.org"/>
+    <outline xmlUrl="http://hyperparameter.space/index.xml" title="hyperparameter.space"/>
+    </body>
+</opml>
